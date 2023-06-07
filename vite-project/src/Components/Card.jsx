@@ -7,7 +7,7 @@ import FeMalepfp from '../assets/user_female.png'
 
 
 function Card({ stack, Gender, StudentName, info, id}) {
-  const stackgender = stack + Gender; // Concatenate the stack and Gender values
+  const stackgender = stack + Gender; 
 
   return (
     <>
